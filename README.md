@@ -10,4 +10,6 @@ Les principales différentes par rapport à l'API Python:
 
 À part ces quelques points, les API Python et R restent très similaires.
 
+## Exécution du notebook
 
+Le notebook a été réalisé sur une image docker, accessible là: https://hub.docker.com/r/geraudster/rjupyter-spark/ 
